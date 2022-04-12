@@ -1,9 +1,12 @@
 #include <stdio.h>
 
-int main (void)
+int main(void)
+/*
+ *using puts to print to standrd output
+ */
 {
-	char string = "\"Programming is like building a multilingual puzzle"
+	char *str1 = "\"Programming is like building a multilingual puzzle\n";
 
-	puts(string);
-	return 0;
+	puts(str1);
+	return (0);
 }
