@@ -7,6 +7,6 @@ int main(void)
 {
 	char *str1 = "\"Programming is like building a multilingual puzzle\n";
 
-	puts(const char *str1);
+	int puts(const char *str1);
 	return (0);
 }
