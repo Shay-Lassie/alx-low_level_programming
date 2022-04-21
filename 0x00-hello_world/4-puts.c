@@ -2,11 +2,11 @@
 
 int main(void)
 /*
- *using puts to print to standrd output
+ *The function main uses puts to print to standrd output
  */
 {
-	char *str1 = "\"Programming is like building a multilingual puzzle\n";
+	char *str1 = "\"Programming is like building a multilingual puzzle";
 
-	puts(str1);
+	puts(const char *str1);
 	return (0);
 }
