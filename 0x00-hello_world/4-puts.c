@@ -1,6 +1,10 @@
 #include <stdio.h>
-/*
- * The program is to print a sentence using putchar
+/**
+ * main - The program is to print a sentence using putchar
+ *
+ * Description: Trying the Documentation right
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 	/*
