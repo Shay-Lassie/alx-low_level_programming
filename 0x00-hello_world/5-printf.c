@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - To print using the printf function
  *
  * Description: Adjusting description commenting style
