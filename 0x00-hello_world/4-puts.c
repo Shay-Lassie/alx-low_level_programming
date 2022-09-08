@@ -1,12 +1,10 @@
 #include <stdio.h>
 
-int main(void)
 /*
- *The function main uses puts to print to standrd output
+ *   main - Entry point
  */
+int main(void)
 {
-	char *str1 = "\"Programming is like building a multilingual puzzle\n";
-
-	int puts(const char *str1);
-	return (0);
+		puts("\"Programming is like building a multilingual puzzle");
+			return (0);
 }
