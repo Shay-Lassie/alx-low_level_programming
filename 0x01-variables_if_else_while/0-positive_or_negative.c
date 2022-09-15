@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 /* This program will assign a random number to n each time it is executed */
-
 /** 
  * main - Complete the source code
  *
@@ -14,7 +13,6 @@
 int main(void)
 {
 	int n;
-
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* The Code */
