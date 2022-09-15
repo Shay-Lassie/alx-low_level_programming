@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - print in lowercase
- * Description: except q and e
- * Return 0
+ *main - print in lowercase
+ *Description:print alphabet except q and e
+ *Return: 0
  */
 
 int main(void)
