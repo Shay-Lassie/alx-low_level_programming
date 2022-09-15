@@ -4,7 +4,7 @@
 
 /**
  *main- print last digit of random n
- *Description: Everytime a random number is generated 
+ *Description: Everytime a random number is generated
  *and stored in n, print the last digit of the number
  *Return: 0
  */
