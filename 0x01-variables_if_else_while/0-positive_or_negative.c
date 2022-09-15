@@ -2,11 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 
-/** main - Complete the source code
+/** 
+ *main - Complete the source code
  *
- * Description: Print positve negative or zero
+ *Description: Print positve negative or zero
  *
- * Return: 0
+ *Return: 0
  */
 
 int main(void)
