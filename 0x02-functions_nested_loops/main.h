@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void print_put()
+void print_put(void)
 {
 	printf ("_putchar\n");
 }
