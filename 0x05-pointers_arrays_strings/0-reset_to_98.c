@@ -8,5 +8,5 @@
 
 void reset_to_98(int *n) /* assign value using pointer */
 {
-	*n = 98;
+	*n = 98; /* change value to 98 */
 }
