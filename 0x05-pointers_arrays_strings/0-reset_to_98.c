@@ -6,7 +6,8 @@
  * Return: Always 0
  */
 
-void reset_to_98(int *n)	/* assign value using pointer */
+void reset_to_98(int *n)	
+/* @n: assign value using pointer */
 {
-	*n = 98;	/*@n: change value to 98 */
+	*n = 98;	/* @n: change value to 98 */
 }
