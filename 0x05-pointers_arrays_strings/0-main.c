@@ -3,7 +3,7 @@
 
 /**
  * main - check the code 
- *
+ * Description: check my code
  * Return: Always 0.
  */
 
