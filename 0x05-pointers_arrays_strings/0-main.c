@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	int n;
+	int n; /* n is the one whose pointer we are using */
 
 	n = 402; /* integer in question */
 	printf("n=%d\n", n);
