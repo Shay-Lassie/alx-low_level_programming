@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - take the reset prototype
+ * reset_to_98 - take the reset prototype
  * Description: manipulate value of n through the pointer
  * Return: Always 0
  */
