@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 - funtion takes an int pointer as parameter
- * Description: updates the pointed value to 98
+ * swap_int: updates the pointed value to 98
  * Return: Always 0
  */
 
