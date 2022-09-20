@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * swap - swap the values of two integers
+ * swap_int - swap the values of two integers
  * Description: prototype in main.h
  * @a: integer a
  * @b: integer b
