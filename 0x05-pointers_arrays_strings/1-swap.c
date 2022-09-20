@@ -9,10 +9,10 @@
  * Return: 0
  */
 
-void swap_int(int *a, int *b)	/* function was declared in main now being defined */
+void swap_int(int *a, int *b)	/* declared in main now being defined */
 {
 	int c = *a;
 
-	*a = *b;	
-	*b = c;
+	*a = *b;	/*  @a: looks like should be declared twice */
+	*b = c;	/* @b: swapped */
 }
