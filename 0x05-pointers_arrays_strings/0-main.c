@@ -2,14 +2,14 @@
 #include <stdio.h>
 
 /**
- * main - check the code 
+ * check - check the code 
  * Description: check my code
  * Return: Always 0.
  */
 
 int main(void)
 {
-	int n; /* n is the one whose pointer we are using */
+	int n;
 
 	n = 402; /* integer in question */
 	printf("n=%d\n", n);
