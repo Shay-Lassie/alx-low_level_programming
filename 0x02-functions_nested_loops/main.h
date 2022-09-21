@@ -8,4 +8,4 @@
 
 void print_put(void);
 
-void print_alphabet(void);
+void print_alphabet(void); /*print lowercase alphabet */
