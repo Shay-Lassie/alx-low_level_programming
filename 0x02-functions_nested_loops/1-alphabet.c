@@ -6,7 +6,7 @@
  * Return: 0
  */
 
-void print_alphabet(void) /*function definition after declaration */
+void print_alphabet(void) /* @print_alphabet: function definition */
 {
 	char a;
 
