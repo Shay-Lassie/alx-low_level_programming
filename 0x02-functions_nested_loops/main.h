@@ -9,3 +9,5 @@
 void print_put(void);
 
 void print_alphabet(void); /*print lowercase alphabet */
+
+void print_alphabet_x10(void);
