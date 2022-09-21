@@ -1,15 +1,11 @@
 #include <stdio.h>
 
-void print_put(void)
-{
-	printf ("_putchar\n");
-}
+/**
+ * _putchar - print lowercase function declaration
+ * Description: use char a as parameter
+ * Return: Always 0
+ */
 
-void print_alphabet(void)
-{
-	char a;
+void print_put(void);
 
-	for (a = 'a'; a <= 'z'; a++)
-		putchar(a);
-	putchar('\n');
-}
+void print_alphabet(void);

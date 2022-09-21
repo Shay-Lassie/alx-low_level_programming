@@ -1,15 +1,19 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * main - print lowercase alphabet
+ * _putchar - print lowercase alphabet
  * Description: putchar twice
+ * @a: parameter
  * Return: 0
  */
 
-int main(void)
+void print_alphabet(void)
 {
-	print_alphabet();
+	char a;
 
-	return (0);
+	for (a = 'a'; a <= 'z'; a++)
+	{
+		putchar(a);
+	}
+	putchar('\n');
 }
