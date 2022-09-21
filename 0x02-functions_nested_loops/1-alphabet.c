@@ -3,11 +3,10 @@
 /**
  * _putchar - print lowercase alphabet
  * Description: putchar twice
- * @a: parameter
  * Return: 0
  */
 
-void print_alphabet(void)
+void print_alphabet(void) /*function definition after declaration */
 {
 	char a;
 
