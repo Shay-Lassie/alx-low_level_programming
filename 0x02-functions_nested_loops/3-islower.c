@@ -9,10 +9,8 @@
 
 int _islower(int c)
 {
-	if (c <= 'z')
-		printf("1");
+	if (c >= 'a' && c <= 'z')
+		return (1);
 	else
-		printf("0");
-
-	return (1);
+		return (0);
 }

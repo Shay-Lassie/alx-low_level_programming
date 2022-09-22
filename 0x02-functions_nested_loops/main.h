@@ -5,6 +5,7 @@
  * Description: use char a as parameter
  * Return: Always 0
  */
+int _putchar(char c);
 
 void print_put(void);
 
