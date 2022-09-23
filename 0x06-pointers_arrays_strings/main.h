@@ -6,6 +6,7 @@
  * Description: string arrays pointers
  * Return: depends on the functio
  */
+int _putchar(char c);
 
 char *_strcat(char *dest, char *src);
 
