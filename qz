@@ -1,0 +1,1127 @@
+[33mcommit e18e02261e86b5514524561faf9f2699a93395c8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Oct 18 14:36:30 2022 +0000
+
+     hoe this fixes the bug
+
+[33mcommit 5170721afa391ae096371a82a6aadf27aa6da66e[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Oct 18 14:28:13 2022 +0000
+
+    betty had passed but ,minor detail
+
+[33mcommit e4207c79feb14f448c69dce98a9c817b3dbb7428[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Oct 18 14:23:54 2022 +0000
+
+    add two positive numbers only
+
+[33mcommit f2cb180d3d353132387d8dc17c00c8aa25d973e2[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Oct 18 14:02:21 2022 +0000
+
+    multiply two numbers and error if numbers are not 2
+
+[33mcommit 4c72566cf978c28a6525d96fd00924206ec7d652[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Oct 18 13:31:23 2022 +0000
+
+    had used argc instead of i so it was not terminating
+
+[33mcommit 536ad7c642b69cf815f9bb77658d1d7dd2f38370[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Oct 18 13:29:26 2022 +0000
+
+    use while so that it terminates because we will always have argc
+
+[33mcommit 08b4a2d5b335c30868535effbc3021c6a3027b90[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Oct 18 13:02:39 2022 +0000
+
+    1-args
+
+[33mcommit 8edf07c5d11ae22555c94992e84ed20e8eff2af6[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Oct 18 10:44:31 2022 +0000
+
+    all files
+
+[33mcommit f76d4859e3bc99b7068f2f74c09215fd8777229c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Oct 18 10:36:51 2022 +0000
+
+    README
+
+[33mcommit 50b4c4100e69db871012b4cacd51801cef717c3d[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Oct 18 10:33:52 2022 +0000
+
+    deleted everything
+
+[33mcommit cedbe9d654121feb6108fd013456498045853f03[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Oct 18 10:27:40 2022 +0000
+
+    moved directory'
+
+[33mcommit 3ad4f9f837c62b6271312b6aac125b000a96cd44[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 16:55:02 2022 +0000
+
+    identical words
+
+[33mcommit 38255cd97ac8080a26329b3ca95c91775f7069ef[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 16:06:46 2022 +0000
+
+    didnt betty, my bad
+
+[33mcommit ade1594ddbc48794f02819403fd76a72da2ec80c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 16:04:45 2022 +0000
+
+    a palindrome is a word that reads backwards
+
+[33mcommit 2cead21c48e4af1e3a73a068a9aedb360d980f61[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 15:49:18 2022 +0000
+
+    only divisible by one and itself
+
+[33mcommit 2140445defddef6915d3be653c78eff4b84b0ee1[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 15:39:00 2022 +0000
+
+    calculate square root
+
+[33mcommit 85921678db36a3b99077101256763c9f08ec929c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 14:55:08 2022 +0000
+
+    raise x to the power of y
+
+[33mcommit 53d54bf041d749da5bc7925e312b50ac7bc668f0[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 14:42:08 2022 +0000
+
+     factorial at the end returns on so when it is 1 it can start moving up the stack to produce the result
+
+[33mcommit 119490962487ddcb28935d837ac53a76f87e1ecc[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 14:31:55 2022 +0000
+
+    calculate string length
+
+[33mcommit 3a872868b67a26e54f5caa266873d433215e8847[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 14:17:11 2022 +0000
+
+    no need for the return as we do not itend to do anything on null
+
+[33mcommit a7460329b751000bdb01c3eccc32d965dba9c839[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 14:11:04 2022 +0000
+
+    l tend not to see the use of the  curly braces
+
+[33mcommit adcc680fef710b10ce0d6bcf9c1d0468fd2cb282[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 14:09:18 2022 +0000
+
+    print in reverse so call before print
+
+[33mcommit 3eb1441fa103f1c0d683051fb49f6d516675c670[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 12:48:31 2022 +0000
+
+    confirming the difference btween pre and post increment
+
+[33mcommit 39787aab9a764e4ca9c835f42c6080e2653f3eb4[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 12:45:33 2022 +0000
+
+    print the string at *s as long as it is not null
+
+[33mcommit 2a3b2bef331a44aa3aec26e97dd9b8d6b6d452cd[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 28 12:39:39 2022 +0000
+
+    base files before the main check
+
+[33mcommit 29e7381850ee23512f6baddcce88eed8540c7526[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 21:56:04 2022 +0000
+
+    this one might not run
+
+[33mcommit 35b41dfe28ebca4329733499f371df852b691840[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 21:47:12 2022 +0000
+
+    One more to go
+
+[33mcommit bdb5dc7736bc068952bb4851fd1a4494f2b3482b[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 21:41:22 2022 +0000
+
+     super tired but ndashingirira. work ethic in progress, glory to God!
+
+[33mcommit d9717eba9a92d3bb059b01ab89f7d2344c5429f6[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 21:32:27 2022 +0000
+
+    print chesssboard
+
+[33mcommit fbbc91d1187b91708260e80f494641f6a041df5b[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 21:17:47 2022 +0000
+
+    find the needle in the haystack
+
+[33mcommit 1422644a1d45ab0ee11081430df4d85459c2249b[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 20:36:55 2022 +0000
+
+    search string
+
+[33mcommit e013c7cb0ab723cd6b22776e8866a8ab6731e58b[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 20:26:06 2022 +0000
+
+    find the length of a prefix substring
+
+[33mcommit b2110f7bf20fca3e7843e9a94b887653bcd548e3[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 20:14:00 2022 +0000
+
+    locate the first occurence of a character
+
+[33mcommit acc5594a8986d3902cb092862129eb2ae25910d1[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 20:03:27 2022 +0000
+
+    copy from one pointer to anoter
+
+[33mcommit a601e3b6aa4d616452b9e5289755ce2259deecc0[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 16:13:03 2022 +0000
+
+    return space
+
+[33mcommit 94af3e8e9e0b4b2cd05d42fd6f91edf52b50d6c4[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 16:10:06 2022 +0000
+
+    memset function equivalent
+
+[33mcommit 2dee5210d59afcaceddc53d8fd60826b919a3b58[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 26 15:45:05 2022 +0000
+
+    README
+
+[33mcommit cdfc8ffb61e4daa7b8afe7b911c0b7a20fcaf2c5[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 23 17:24:41 2022 +0000
+
+    main giving trouble
+
+[33mcommit 0686eae778881b1d0313a9359a83bbaf8f0e6b67[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 23 17:15:51 2022 +0000
+
+    add numbers
+
+[33mcommit 5c840266d5341c4f73d0a5744055fb26b86149d1[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 23 16:54:07 2022 +0000
+
+    dont code nything other than that one line of code
+
+[33mcommit 1654b2ffde7005f009a8a17a1033e1eaba0bc30c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 23 16:50:49 2022 +0000
+
+    magic
+
+[33mcommit 3ff74d83ecf3820684ebbf19015bf306c79383de[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 23 16:45:18 2022 +0000
+
+    print integer
+
+[33mcommit 7712c5887f552dbf906763d65c5c291f1e5c8948[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 23 07:52:10 2022 +0000
+
+    level up
+
+[33mcommit 0c172cad585af3f227889142531ee5cc7d61ae60[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 23 06:59:29 2022 +0000
+
+    encoding a string
+
+[33mcommit 92db66633ad43308d8d993876dddd5481145f0aa[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 23 06:40:14 2022 +0000
+
+    capitalise words
+
+[33mcommit 83685ef46df8eeb733261d7917bb9dda429814a6[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 23 06:16:08 2022 +0000
+
+    convert lowercase lrter  to uper
+
+[33mcommit f0aeb5f0d0b97e54311a02e401ed97a4aba399ec[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 21:48:14 2022 +0000
+
+    reverse array contentes
+
+[33mcommit 19096479ab7a6a14b7ffe5cd0ba85c4a2d511a8e[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 20:33:52 2022 +0000
+
+    compare strings function
+
+[33mcommit 979fb97937432877d375752f4284bbd080208d25[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 20:16:36 2022 +0000
+
+    strncpy function
+
+[33mcommit 1c046ba6f33a239bdf8c4d205ec44e0795008c0c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 19:56:01 2022 +0000
+
+    concatenate ony specific bytes
+
+[33mcommit 788f24a6be7a10a32f06494f1ba9345f45165417[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 18:58:15 2022 +0000
+
+    betty style error
+
+[33mcommit 3ed1dc865e27a203415821df747f564cb18d83f3[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 18:55:53 2022 +0000
+
+    concatenates two strings
+
+[33mcommit 3aa91e7f5bf3f4e177699e61cb6bc3b100b30d73[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 17:16:03 2022 +0000
+
+    trailing whitespace
+
+[33mcommit f13a467e1d1db5ea68e9529f28a9755c8a3f3728[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 17:14:13 2022 +0000
+
+    length of string
+
+[33mcommit f4fa5d4b2c6bb7356d6b9b0ef8449b44575bc38b[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 15:42:06 2022 +0000
+
+    trailibnng whitespace
+
+[33mcommit bd7f5a4ad07dc8e56f522466fed27cf31818a2b6[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 15:38:45 2022 +0000
+
+    trailing whitespace
+
+[33mcommit 059b219d7bd78f1e64fd68c01a976c548d219e31[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 15:37:18 2022 +0000
+
+    for each hour, print every minute
+
+[33mcommit 431d924c69d91438210efc6f1dfbdd6732916c3e[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 09:04:18 2022 +0000
+
+    betty
+
+[33mcommit 5cc34d188ce2cf4db86f3c02648730eb82f4655c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 09:00:05 2022 +0000
+
+    ndatopererwa
+
+[33mcommit 12242e3cd18fc1e5d4d48c5f178d378f95d1e49d[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 08:02:49 2022 +0000
+
+    dont know how to take an int without a parameter and then calculate it when it is not in a variable
+
+[33mcommit e593327a17403fe151b25386f20962edb57ac36a[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 07:40:42 2022 +0000
+
+    flow maintains that return is the last l think
+
+[33mcommit 67bc656890bed3939ea79f569a61687cc906392b[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 07:38:39 2022 +0000
+
+    description for retur value i
+
+[33mcommit 766307c0c1291d6bfd8f5a569643ef3abe7bc01e[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 07:33:53 2022 +0000
+
+    absolute value is like distance so double negative will be positive
+
+[33mcommit 506eedda47222916481f29cc5c52ff2bce834c40[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 07:01:51 2022 +0000
+
+    when printing, to always use the _putchar function
+
+[33mcommit 5fc1d9ed94444103dcfe6aca4606276cac0abf23[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 06:44:15 2022 +0000
+
+    lowercase and UC character identification, also added a gitignore file
+
+[33mcommit 4eac189b0a350fc990e606fcabdeb950ce3c37ed[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 06:30:46 2022 +0000
+
+    finally fixed the _putchar.c file and addes the function to main.h
+
+[33mcommit 81e0b48e086429aea64ace7705240bcd9b573b2b[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 22 06:15:33 2022 +0000
+
+    _putchar function giving trouble again
+
+[33mcommit 3321e9afc5682e571275dbe640c77a07baaf7ccf[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 18:33:22 2022 +0000
+
+    space yepanze inodiwaana not yemukati but well done on the documentation accuracy
+
+[33mcommit e52a5d9db1257408d33a626ad8baf27c5c1a8485[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 18:31:31 2022 +0000
+
+    while and for loop spaces prohibited
+
+[33mcommit b3704ea1f1c72e348b5b964cf4243b3e61242e9d[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 18:29:19 2022 +0000
+
+    whitespace
+
+[33mcommit 76c9c30bd834d930d0a169900492dc4d8eac1e3c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 18:27:26 2022 +0000
+
+    print lC alphabet 10 times
+
+[33mcommit 212567579055b45b60e8db489f26bf80c7bec059[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 18:02:50 2022 +0000
+
+    error of ommission honestly, thought l had fixed that part
+
+[33mcommit 4cdbdb1155e8ef16a267bd9e7bae249bad021279[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 17:56:32 2022 +0000
+
+    added at the start
+
+[33mcommit 5cafa949c3a835c748ed8a8829790a352e25d679[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 17:53:33 2022 +0000
+
+    Betty
+
+[33mcommit e22575f8b87dc197d6a99f7737a28584efcae1ba[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 17:51:58 2022 +0000
+
+    after functioon
+
+[33mcommit a76236a03dd932965a70d5efea4c3fd186020904[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 17:50:05 2022 +0000
+
+    description in main.h also
+
+[33mcommit b73c5abe47e0a6c4cfc7de6b1d2393b8152f4449[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 17:48:19 2022 +0000
+
+    @function-name:
+
+[33mcommit 0ad6c74f6d903652f6e8d2f0e3e1afecb5875b9d[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 17:45:37 2022 +0000
+
+    description for function missing
+
+[33mcommit 1124ef142bf03bcd28d09739b6507b2ba8f46c95[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Wed Sep 21 17:41:57 2022 +0000
+
+    lowercase alphabet function
+
+[33mcommit 03d58d401191b47f10ecc6c8c094d3a59fecd8ce[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 18:43:56 2022 +0000
+
+    adjusted in the wrong place
+
+[33mcommit 13ff0b66f569f54a9dea6f35430a6ae252f42919[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 18:41:47 2022 +0000
+
+    replace description with swap
+
+[33mcommit a8fc2e482e3a0659607dc41a65e4bfbdd5e9a03e[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 17:59:38 2022 +0000
+
+    descriptions
+
+[33mcommit 320d1cb2d494a939d766d4bc3c291350a9928a46[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 17:51:22 2022 +0000
+
+    variable descriptions to have a colon not hyphen
+
+[33mcommit ac28d7397976d7dcb421e4f09c635f64bbea4e5c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 17:48:09 2022 +0000
+
+    swap the values of integers by storing the value of one in a variable
+
+[33mcommit 02212f926db8bd017f76c7e9b9a741ae771a5644[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 16:57:50 2022 +0000
+
+    added the description in description
+
+[33mcommit ee94eb6d9d88b50386e9e6539cc39e68147ed994[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 16:44:22 2022 +0000
+
+    try defining as @ for variables
+
+[33mcommit 7b5fd7ceba3979f78ab40daac85ccc49650529d4[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 16:41:39 2022 +0000
+
+    try defining as @n
+
+[33mcommit af96daf5036517ff89a7b6cf67797101c85575b8[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 10:56:14 2022 +0000
+
+    reset
+
+[33mcommit d12ee72cf24715a499f4dfc1575c9397547bb68e[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 10:28:07 2022 +0000
+
+    added stdio lib
+
+[33mcommit 8c7d9a14054db36832f33d282e12b1698fd741fc[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 10:21:40 2022 +0000
+
+    not sure how l was skipping the declaration
+
+[33mcommit 150bd105e6c7e9b1853c3195712d30c76e5adb84[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 10:19:01 2022 +0000
+
+    not sure
+
+[33mcommit 80b77ce1cc12ad6edbe1cdf34707356a3841c65c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 10:16:32 2022 +0000
+
+    description for the variable n
+
+[33mcommit f03608df16e055ef988fdfb98678448c754f68c4[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 10:12:42 2022 +0000
+
+    added descriptions
+
+[33mcommit b6ab0f08c4870ff2137f3f9570e0b67da7ac8b7d[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 10:07:41 2022 +0000
+
+    description for the specific function not main
+
+[33mcommit 948bc01695a625f7fadcf430263631c08bf6f990[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 10:03:14 2022 +0000
+
+    description
+
+[33mcommit ba05063bae3565a38af712b7c35c0dac40dbb5cf[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 10:00:47 2022 +0000
+
+    was missing description in main.h
+
+[33mcommit 10a2f890e8a4c1d3ea7bd1a1e385488d7b88ab7c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Tue Sep 20 07:37:11 2022 +0000
+
+    Tryng to understand the 3 fils
+
+[33mcommit 109c34f8030e17af12008567edd6d3adc7144b90[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 19 17:35:32 2022 +0000
+
+    pointers and arrays
+
+[33mcommit 3315fbe8a9240438cb62fe843ae827451fdfbc60[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 19 08:45:38 2022 +0000
+
+    deleted the main.c it is causing conflicts becaise of having duplicate main functions
+
+[33mcommit e6997bdad0e30fe8590e9423436e0ded8d1f3367[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 19 08:29:33 2022 +0000
+
+    main
+
+[33mcommit 3df8daae2e74feef0a03f2fd54ec239de936c704[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 19 08:28:02 2022 +0000
+
+    add the main.c checker but it also has a main shich is causing conflict'
+
+[33mcommit 475795e1c2db44f67208ce0f1566a332aedf6453[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 19 08:16:41 2022 +0000
+
+    print lowercase alphabet
+
+[33mcommit 226116b9ce14c8f99bc1f6bc37e2d699e7eb0a43[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 19 08:03:30 2022 +0000
+
+    added main.h and defined the function to print in there:
+
+[33mcommit b3577f04b27a8d3a98a612ed34fe42429e3d7de4[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Sun Sep 18 06:40:38 2022 +0000
+
+    Forgot the Readme again
+
+[33mcommit 7ed5d081e2127db45d9aaa195f879558f34ea7a1[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Sun Sep 18 06:39:17 2022 +0000
+
+    print string
+
+[33mcommit 3f16e5759c3d7c193714e9857b961764300e2e46[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 16:45:20 2022 +0000
+
+     looks like l did that again, leave space between main and void
+
+[33mcommit fa9f3fe8eaf302f48a48c30d2660a54e2b1764cc[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 16:43:25 2022 +0000
+
+     it has all been worth the headaches
+
+[33mcommit 170e94b5439c3026a4cdd117ddc8624aae23e132[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 16:17:58 2022 +0000
+
+    typo
+
+[33mcommit a0943f53e4dad6563eb0a37aa3ccae847c468adb[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 16:16:16 2022 +0000
+
+    practice really makes perfect
+
+[33mcommit 2c2a0bfaba669fbd6bd445b24fcd94d0ecff7d16[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 16:05:40 2022 +0000
+
+    Ndanga ndanyanya the indentation on the last for loop
+
+[33mcommit c2dafde7a64594f1b87789c74c7a49a24d74e5aa[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 16:03:07 2022 +0000
+
+    two digit combinations
+
+[33mcommit 8db14c842282e1f5060a1cd89625bea681844b69[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 15:35:46 2022 +0000
+
+    got a little help but now understand what continue does
+
+[33mcommit 9c0dc8fa0e4dabac450c71c32c06dfaf2477b65d[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 15:22:55 2022 +0000
+
+    had left a space before line 19
+
+[33mcommit 402aed5e29df6a3aa5ad21ccb8000857e676b0a3[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 15:09:22 2022 +0000
+
+    4 putchars
+
+[33mcommit 4e8473af05069d342ece2c6ca1f7d09df9a1ec37[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 12:22:04 2022 +0000
+
+    Base 16 characters: hoping to get it the first time again
+
+[33mcommit 9724b2c4a4be3b20d27190b55cdb7823e35cbe19[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 10:27:28 2022 +0000
+
+    lowercase reverse alphabet
+
+[33mcommit 4561c116d5fc6f3e9681f60108e189dbd2c5f3d2[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Fri Sep 16 10:13:24 2022 +0000
+
+    PUtchar uses the module 10 for some reason, l dont understand it yet really
+
+[33mcommit 2cc5ce38789278b448cec67bd6ca4fef2530f828[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 18:11:32 2022 +0000
+
+    one star was missing
+
+[33mcommit 973d98fd389f6755b61365b47a14f51242f336d2[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 18:08:37 2022 +0000
+
+    didnt gcc
+
+[33mcommit 3308f8779c875cb32070165ec2ae2a7b4e01f0b0[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 18:06:18 2022 +0000
+
+    removed the indents although they are automatic
+
+[33mcommit 34ed163a52e9d771172f9ff4426a75c1e6bb2f34[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 18:03:28 2022 +0000
+
+    was used to the char way
+
+[33mcommit 514360a24e86e3a69c79287b3db504f74d28e253[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 17:59:13 2022 +0000
+
+    print base 10
+
+[33mcommit f8fdec8643b39b6763b7eff6a426e810eac62e8e[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 17:50:17 2022 +0000
+
+    l had left the : on return comment. Betty is picky lol
+
+[33mcommit 994d06c0ec80c6c66edfe0dd6a32e92bd627dc24[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 17:43:47 2022 +0000
+
+    keep pushing
+
+[33mcommit 76f28cce8bef8475b40beb9628e5cb48575d74aa[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 17:35:08 2022 +0000
+
+    no space between main and void
+
+[33mcommit e330356710ada82d3c99749c7adc015becd9dd5e[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 17:32:59 2022 +0000
+
+     It said 3 putchars l thought it said 2
+
+[33mcommit fe80bcfa2dbd601f9d9dc236143a600634e38bac[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 16:59:39 2022 +0000
+
+    parenthesis after  return also
+
+[33mcommit 8bf85f788a4bd4568b9eaeb45b0d5ce35c9bf3c5[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 16:57:49 2022 +0000
+
+    putchar parenthesis needs space
+
+[33mcommit f0aa5280ac28f76c24d525cdffe6cacd82978d62[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 16:55:37 2022 +0000
+
+    Betty Style
+
+[33mcommit 22ff80bb567a8ad60241a4bf6f6592f88f2b4a0b[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 16:48:17 2022 +0000
+
+    Had put a new line after each character instead of an overall oone, its the indent l was meant to fix
+
+[33mcommit 05af8f6a7fe812178efe55dcdfe995276bbffb51[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 16:44:32 2022 +0000
+
+    added another putchar for th new line
+
+[33mcommit 7cf456978dc3270d06ba31918c1fafc39fe78313[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 16:38:39 2022 +0000
+
+    new line
+
+[33mcommit d6f7845d8d07faf51761a5819bd96bda17eb10e0[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 16:29:07 2022 +0000
+
+    print the alphabet in LC
+
+[33mcommit 9f47fc16806f77dab70bdfb5949fd6225dfb2121[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 14:07:09 2022 +0000
+
+    Another whitespace, cant get my betty to work nhai nhai
+
+[33mcommit b71cdd6866689679b316cc8c9c67a2264feab15a[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 14:05:15 2022 +0000
+
+    Betty atanga lol anyway, istakes l made last time also, ndatanga
+
+[33mcommit 674eac41f48d57967e1660b6937aac5f662067c3[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 13:56:40 2022 +0000
+
+    Instruction was not clear but l also had not done my manual check
+
+[33mcommit 2387b401200626c407b5fc11bf4e790d2e0a2632[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 13:45:49 2022 +0000
+
+    last digit
+
+[33mcommit 69b5eb1af7823408ef21c7e1e8b65aa61291dcc5[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 12:02:26 2022 +0000
+
+    removed the tab after **
+
+[33mcommit e4fae6ef0d21d3beeec927dfe5dcc57ec0140b9c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:59:14 2022 +0000
+
+    removed the other white space
+
+[33mcommit bebb7c957ce38fd54777b3024e2cf12115dc847b[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:57:56 2022 +0000
+
+    Removed spaces between comt lines
+
+[33mcommit 34ee2988d85789ce916fca101d55dcc3bb7981ee[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:56:16 2022 +0000
+
+    back to the Commenting style
+
+[33mcommit 058c5eb0be8d3ec2e305f02ae532e6d0b6e2f5a1[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:55:00 2022 +0000
+
+    whitespace
+
+[33mcommit 6cc8fca6e327ec8de59e29511d3720428dfd2b61[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:51:53 2022 +0000
+
+    l understand now that the braces would have been necessary if l had multiple statements for execution
+
+[33mcommit 6013368b4e7624c9b82b80186fec51a0f78871f5[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:48:38 2022 +0000
+
+    put back the curly braces
+
+[33mcommit acfb3b480462e86439c5e72b4be0395b949cbd90[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:46:06 2022 +0000
+
+    Trailing still around the if statement
+
+[33mcommit eae2e2f627540799b690bab7825bba47e8679cc0[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:41:58 2022 +0000
+
+    Betty not checking because of patch error
+
+[33mcommit f7ff9b22a6eaa182d8f7197a302863ac94141863[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:39:45 2022 +0000
+
+    Betty being the most
+
+[33mcommit 1c3d0ba19ce768d58d8dd7f49043d7a6d79c1362[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:37:58 2022 +0000
+
+    Removed whitespaces
+
+[33mcommit c74eac8cfad2f9024d2762a9d120953ffc1e00cc[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:23:34 2022 +0000
+
+    Betty
+
+[33mcommit b74c12f226cc35b4f2a1e59e5e0c3a023a290018[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:16:41 2022 +0000
+
+    Trailing spaces
+
+[33mcommit 093886582bde52b7e54cce23a6258c87f6bee45e[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:10:53 2022 +0000
+
+    Commenting Style
+
+[33mcommit e53bb9222ec90e758a5caad0bf50979c8c79e78d[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:08:05 2022 +0000
+
+    Betty Coding Style
+
+[33mcommit d4b95ba579c2fbb4108f1dbf78c94b2e2bb52c1c[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:04:44 2022 +0000
+
+    new line is coming at the end of the statement
+
+[33mcommit 8066eb756068b7a5e8ec99d644fa85643a0f91df[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 11:02:40 2022 +0000
+
+    Add new lines
+
+[33mcommit 24f8c5a57b5a59bbcc8fcef75daeade1b1121390[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 10:58:44 2022 +0000
+
+    README should always be my first commit, alwasys
+
+[33mcommit 19f08981d469a39a4d60ead16d30fa14d48049a0[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 15 10:56:49 2022 +0000
+
+    positiive or negative
+
+[33mcommit 294d3f1ab3e9660afc686debb3f2a0852050d709[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Sep 12 13:22:30 2022 +0000
+
+    Intel syntax is less specific, using g++ not cc
+
+[33mcommit 0035dc0afab57251f5c6ae8118948b16840ae802[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 8 20:12:07 2022 +0000
+
+    renamed file
+
+[33mcommit bb8e31d18b1884ee5e46217fbe0976dc65994bb8[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 8 20:10:30 2022 +0000
+
+    error
+
+[33mcommit 6458f45ab2933f4c703419458b2db07b84bb7f06[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 8 20:06:58 2022 +0000
+
+    save generated assembly code to a file
+
+[33mcommit a0e22c6ce54a825b46c1588e9a3076126a5b5dbe[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 8 20:04:12 2022 +0000
+
+    Precision
+
+[33mcommit 93c00f5d73fbf8fbb24d1da2ccfeb92b438ce782[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 8 19:43:20 2022 +0000
+
+    size of
+
+[33mcommit a2df99a9e044ee912f6c4d2af0047d2ac7f8560b[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 8 19:37:34 2022 +0000
+
+    always gotta start with the double stars
+
+[33mcommit fdb2910de6ae198161093544328c61a64d4e2f44[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 8 19:35:51 2022 +0000
+
+    print comments adjusted
+
+[33mcommit 80f9e5fd2ed262a28781754577bb14a4dc8ed567[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 8 19:33:11 2022 +0000
+
+    Documentation style
+
+[33mcommit 286d4a1827c05a67087d8b3b116ed54a7936cfeb[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 8 19:29:50 2022 +0000
+
+    printf printing
+
+[33mcommit 32fcdca7e0407069ef91f4fdb0e80bf3ee8dedb6[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 8 19:25:14 2022 +0000
+
+    added main function description
+
+[33mcommit 3ff91ec0e02b8d824e2cd77e1b770a9c78839034[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Sep 8 19:20:49 2022 +0000
+
+    Betty coding style
+
+[33mcommit 1c53223eba838cc2399d7eb827fbd9429fd4ead3[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Apr 21 06:42:11 2022 -0700
+
+    syntax error
+
+[33mcommit 2f3e53efd2e30bfa2011f83c8054453a1b967014[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Apr 21 06:27:56 2022 -0700
+
+    new line
+
+[33mcommit 09d46ffd5abb307f65b9894142a91bc2dd59e0f2[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Thu Apr 21 06:24:39 2022 -0700
+
+    Puts
+
+[33mcommit bf930001b75862b6beec10e107100cbe2e8c8ded[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 23:53:52 2022 -0700
+
+    nice trying betty
+
+[33mcommit e88fff9e1d46c551c720bcc423e9bafe6294455f[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 13:11:53 2022 -0700
+
+    puts for print
+
+[33mcommit 5df4d29562d6ef70b693b76c5190516ba059ba75[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 13:00:37 2022 -0700
+
+    bin/bash
+
+[33mcommit 281b4be96af68f240dc00d16ea2f11ba8f87c3c5[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 12:55:45 2022 -0700
+
+    name the executable
+
+[33mcommit 46342f9717aae8c834cc7814e4cd3b2f07bec3a9[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 12:51:33 2022 -0700
+
+    punctuation
+
+[33mcommit 41ff61d6d880c05d57c106c749598099e7ac8364[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 12:47:29 2022 -0700
+
+    assembly code
+
+[33mcommit 4d398e16ea14f3e1633a04ebc3fb3f203a9cd2d6[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 12:40:34 2022 -0700
+
+    -c
+
+[33mcommit 659e758e4cce06dec2c52da8e31c3003f2dd61dd[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 11:33:06 2022 -0700
+
+    and save the output, read all the instructions kid
+
+[33mcommit 4db083946fd4ced752fbfbef09297b69b5857089[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 11:31:00 2022 -0700
+
+    you want the actual assembly output not to assemble
+
+[33mcommit d6a337f1f98943c19d4fd9e88584747c670620e3[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 11:28:20 2022 -0700
+
+    assembly
+
+[33mcommit d1512c46e6dee00c94a1d686c3cd967911477640[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 11:23:30 2022 -0700
+
+    trial
+
+[33mcommit 3a88ebf8cd46310826d696c4e8d7f4f5db50378e[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 11:21:41 2022 -0700
+
+    forgot chmod
+
+[33mcommit 8be7f8e7ffd698051ec5f2f9cb868899eb0bf9a0[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 11:16:09 2022 -0700
+
+    Compile but do not link
+
+[33mcommit a99573951da5b0efa37450184be109b6621ad5f0[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 11:03:54 2022 -0700
+
+    Preprocessor not just gcc
+
+[33mcommit 0bd344289e68a9767f5f04c9f655151ebb1545df[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 10:47:49 2022 -0700
+
+    Preprocessing
+
+[33mcommit f6068f079717c7546b7f7cd25caa01721f04dfc5[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 10:42:51 2022 -0700
+
+    run c file through preprocessor
+
+[33mcommit 2c98c60a413587c466f794e2844573997f5e75c5[m
+Author: Shay-Lassie <lassie034@gmail.com>
+Date:   Mon Apr 11 10:27:46 2022 -0700
+
+    Intro to C
