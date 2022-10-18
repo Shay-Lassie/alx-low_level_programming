@@ -12,3 +12,5 @@ void reset_to_98(int *n);	/* function declaration */
 void swap_int(int *a, int *b);	/* swap integer values */
 
 int _strlen(char *s);	/* string length */
+
+void _puts(char *str);
