@@ -1,5 +1,4 @@
-#ifndef main.h
-#define main.h
+#include "main.h"
 
 /**
  * _isupper - cheecks for uppercase character
@@ -10,13 +9,8 @@
 
 int _isupper(int c)
 {
-	for (c = 'A'; c < 'Z'; c++)
-	{
-		if (c <= 'Z')
-			return (1);
-		else
-			return (0);
-	}
-
-	return (0);
+	if ((c >= 'A') && (c <= 'Z'))
+		return (1);
+	else
+		return (0);
 }
