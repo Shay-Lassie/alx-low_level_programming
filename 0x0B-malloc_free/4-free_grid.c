@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * free-grid - free the 2D array created in previously commited file
+ * free_grid - free the 2D array created in previously commited file
  * Description: compiles with file 3
  * @grid: number of rows tp be freed
  * @height: number of columns to be freed
