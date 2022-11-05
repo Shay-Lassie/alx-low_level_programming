@@ -5,7 +5,7 @@
  * Description: counts number of letters it should and does read and print
  * @filename: text file to read
  * @letters: number of letters
- * Return: 0 if file corrupt, 0 if output is corrupt, NULL if file name is nu;ll
+ * Return: 0 if file corrupt, 0 if output is corrupt, NULL if filename null
  */
 
 ssize_t read_textfile(const char *filename, size_t letters)
