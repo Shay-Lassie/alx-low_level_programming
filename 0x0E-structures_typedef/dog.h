@@ -2,7 +2,7 @@
 #define _DOG_
 
 /**
- * struct-dog - Drogo my dog
+ * struct dog - Drogo my dog
  * @name: Drogo
  * @age: 5 months
  * @owner: landlord
