@@ -1,18 +1,12 @@
 #include "main.h"
 
 /**
- * strtow - split string into words
- * Description: null terminated
- * @str: string to split
- * Return: pointer or null
-**/
-
-/**
  * number - function to calculate number of words
+ * Description: null terminated
  * @str: string being passed to check for words
- *
- * Return: number of words
+ * Return: number of words/ pointer or null
  */
+
 int number(char *str)
 {
 	int a, num = 0;
